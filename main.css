@@ -1,11 +1,18 @@
+@font-face { 
+font-family: "Amplitude-Book.otf"; 
+src: url("fonts/Amplitude-Book.ttf"); 
+} 
+
+
 .body{
 
 border:0px;
 margin: 0px;
+letter-spacing: 3px;
+font-family: "Amplitude-Book"
+
 
 }
-
-
 
 
 .header{
@@ -23,12 +30,23 @@ padding-bottom: 40px;
 
 color: #8258B6;
 padding-top: 20px;
+padding-bottom: 30px;
+font-size:18px;
+letter-spacing: 3px;
+font-family:"Amplitude-Book"
+
+
+
 
 
 }
 
 .txt{
 padding-top: 20px;
+font-size:18px;
+letter-spacing: 3px;
+font-family: "Amplitude-Book"
+
 
 }
 
