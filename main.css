@@ -3,9 +3,12 @@ font-family: "Amplitude-Book.otf";
 src: url("fonts/Amplitude-Book.ttf"); 
 } 
 
+.tag{
 
-.body{
+position: fixed;
+}
 
+.body{	
 border:0px;
 margin: 0px;
 letter-spacing: 3px;
@@ -36,9 +39,6 @@ letter-spacing: 3px;
 font-family:"Amplitude-Book"
 
 
-
-
-
 }
 
 .txt{
@@ -57,7 +57,14 @@ height: 550px;
 background-color: #F4F4F4;
 
 
+}
+
+.dos{
+background-color: #dfecf5;
 
 }
 
+.tres{
+background-color:#dfe0f4;
 
+}
